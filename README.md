@@ -16,6 +16,7 @@ $ make start
 ```
 
 ***Note**: the server will be accessible on http://localhost:8080.*
+***Note**: the databse client will be accessible on http://localhost:8081.*
 
 If the server does not load up, give it up time. Wordpress is like a grandfather: it is not very fast.
 
