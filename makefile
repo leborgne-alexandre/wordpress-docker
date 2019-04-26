@@ -7,3 +7,7 @@ stop:
 	docker-compose down
 
 restart: stop start
+
+update:
+	git pull
+	make restart
