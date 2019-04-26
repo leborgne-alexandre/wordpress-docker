@@ -15,7 +15,9 @@ Where `~/code/my-wordpress-app` is the path to where you want to have your Wordp
 $ make start
 ```
 
-***Note**: the server will be accessible on http://localhost:8080. If you want to use a different port, change it in the [`.env`](./env) file.*
+***Note**: the server will be accessible on http://localhost:8080.*
+
+If the server does not load up, give it up time. Wordpress is like a grandfather: it is not very fast.
 
 ## Stop
 
